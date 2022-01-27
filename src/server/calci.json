@@ -1,0 +1,117 @@
+{
+  "calci": [
+    {
+      "fname": "Samiksha",
+      "lname": "Kad",
+      "uername": "112964430466712790896",
+      "email": "kadsamiksha347@gmail.com",
+      "password": "socialLogin",
+      "totalbudget": 1000,
+      "balance": 1000,
+      "budget": [
+        {
+          "title": "other",
+          "amount": 500
+        }
+      ],
+      "id": 1
+    },
+    {
+      "password": "$2a$10$pz/m3SQAg9t/0jnkDKGwHeHBjGMQIlLJ9CFZuBiFpMrvQNWB4Pqa6",
+      "email": "john@gmail.com",
+      "fname": "John",
+      "lname": "Doe",
+      "username": "John1",
+      "balance": 0,
+      "totalbudget": 1000,
+      "budget": [
+        {
+          "title": "fgfg",
+          "amount": 500
+        },
+        {
+          "title": "rtrt",
+          "amount": 100
+        },
+        {
+          "title": "ewew",
+          "amount": 400
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fname": "Samiksha",
+      "lname": "Kad",
+      "uername": "112964430466712790896",
+      "email": "kadsamiksha347@gmail.com",
+      "password": "socialLogin",
+      "totalbudget": 0,
+      "balance": 0,
+      "budget": [],
+      "id": 3
+    },
+    {
+      "password": "$2a$10$CpKdGySRThSPHyW3qeAiAOYgQp4lfz0YsYD9r4kipeP9c8XPfNpAO",
+      "email": "harsh@gmail.com",
+      "fname": "Harsh",
+      "lname": "kothari",
+      "username": "harsh123",
+      "balance": 500,
+      "totalbudget": 30000,
+      "budget": [
+        {
+          "title": "oneplus",
+          "amount": 29000
+        },
+        {
+          "title": "cover",
+          "amount": 500
+        }
+      ],
+      "id": 4
+    },
+    {
+      "fname": "Samiksha",
+      "lname": "Kad",
+      "uername": "112964430466712790896",
+      "email": "kadsamiksha347@gmail.com",
+      "password": "socialLogin",
+      "totalbudget": 0,
+      "balance": 0,
+      "budget": [],
+      "id": 5
+    },
+    {
+      "password": "$2a$10$msteZQfoLhSVsyp6jMAlQ.Z/SVzUXaCfRNPN1.Ezo86t6GCcJFxsG",
+      "email": "priyapandey4721@gmail.com",
+      "fname": "Priya",
+      "lname": "Pandey",
+      "username": "Priya19",
+      "balance": 3500,
+      "totalbudget": 15000,
+      "budget": [
+        {
+          "title": "Phone",
+          "amount": 10000
+        },
+        {
+          "title": "Gym",
+          "amount": 1500
+        }
+      ],
+      "id": 6
+    },
+    {
+      "password": "$2a$10$8vCBoJjMxmhVRz8XAjJkGe3.Sdr3e41zQ.ShTf6sJIdh1WD9zp2nW",
+      "email": "komal@gmail.com",
+      "fname": "Komal",
+      "lname": "Pandey",
+      "username": "komal12",
+      "balance": 0,
+      "totalbudget": 0,
+      "budget": [],
+      "id": 7
+    }
+  ]
+}
